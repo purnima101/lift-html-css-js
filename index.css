@@ -43,7 +43,9 @@
     background-color: grey;
     position: absolute;
     left: 48%;
+    /* top: 1rem; */
     bottom:1px;
+    transition: 5s;
 }
 
 .floors
